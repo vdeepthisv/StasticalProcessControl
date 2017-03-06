@@ -1,0 +1,53 @@
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.exe
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.pdb
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.NorthernWhite_PQR.resources
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.exe
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.pdb
+C:\Users\Srikanth Rapaka\documents\visual studio 2010\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Database1.sdf
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.exe
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.pdb
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.NorthernWhite_PQR.resources
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.exe
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.pdb
+C:\Users\deepthi\Downloads\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.csproj.ResolveComReference.cache
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.csproj.ResolveComReference.cache
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.exe
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.pdb
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.exe
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.pdb
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.NorthernWhite_PQR.resources
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\28jan-nw\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.csproj.ResolveComReference.cache
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.exe
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.pdb
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.exe
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.pdb
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.NorthernWhite_PQR.resources
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\deepthi\Downloads\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.csproj.ResolveComReference.cache
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.exe
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.pdb
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.NorthernWhite_PQR.resources
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.exe
+C:\Users\srivoleti_deepthi\Documents\Visual Studio 2010\Projects\29Jan\Projects29\Projects28\Projects\Projects\Northernwhite_PQR\Northernwhite_PQR\bin\Debug\Northernwhite_PQR.pdb
+C:\Users\Srikanth\Downloads\NorthernWhite_30Jan\NorthernWhite_30Jan\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.csproj.ResolveComReference.cache
+C:\Users\Srikanth\Downloads\NorthernWhite_30Jan\NorthernWhite_30Jan\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.exe
+C:\Users\Srikanth\Downloads\NorthernWhite_30Jan\NorthernWhite_30Jan\Projects\Northernwhite_PQR\Northernwhite_PQR\obj\x86\Debug\Northernwhite_PQR.pdb
